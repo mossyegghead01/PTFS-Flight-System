@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name='swas.py',
+    name='BA Flight System',
     packages=find_packages(include=['flight system']),
     version='1.0.0',
     description='none',
