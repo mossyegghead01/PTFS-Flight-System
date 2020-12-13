@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='BA Flight System',
-    packages=find_packages(include=['flight system']),
+    packages=find_packages(include=['flightsystem']),
     version='1.0.0',
     description='none',
     long_description=long_description,
