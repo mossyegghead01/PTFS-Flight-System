@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name='BA Flight System',
+    name='PTFS Flight System',
     packages=find_packages(include=['flightsystem']),
     version='1.0.0',
     description='none',
