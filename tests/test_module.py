@@ -1,4 +1,5 @@
 import flightsystem
 
-assert flightsystem.__version__
-assert flightsystem.__name__
+def test_module():
+    assert flightsystem.__version__
+    assert flightsystem.__name__
